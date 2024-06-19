@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammad00alavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammad00alavi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad00alavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
